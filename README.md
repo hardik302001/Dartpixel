@@ -3,7 +3,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dartpixel.Dartpixel&color=blue">
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&background=000000&center=true&width=420&lines=+Hey+There!+👋+This+is+KARTIK+SHARMA;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&background=000000&center=true&width=420&lines=+Hey+There!!+👋+This+is+KARTIK+SHARMA;">
 </p>
 
 
