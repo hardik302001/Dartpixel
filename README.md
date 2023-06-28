@@ -22,7 +22,7 @@ I'm a Developer, Competitive Programmer and Algorithms enthusiast!
   <br>
   💻 I love writing code in C++ and Js seems to be my new love.
   <br>
-  📚 Presently , I'm trying to become perfectionist in Algorithm Analysis.
+  📚 Presently , I'm trying to become perfectionist in Algorithm Analysis!
   <br>
   👯  Looking to collaborate with other open source contributors.
   <br>
