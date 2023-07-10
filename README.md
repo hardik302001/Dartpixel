@@ -118,18 +118,18 @@ I'm a Developer, Competitive Programmer and Algorithms enthusiast!
 
   <a align="right" href="https://github.com/Dartpixel/Color-Detection-using-Python" title="Color Detection using Python"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Color-Detection-using-Python&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="center" href="https://github.com/Dartpixel/Vehicle-Number-Plate-Detection-and-Recognition
-" title="Vehicle Number Plate Detection and Recognition"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Vehicle-Number-Plate-Detection-and-Recognition&theme=react&border_color=61dafb&border_radius=10">
-</a>
-</div>
+  <a align="left" href="https://github.com/Dartpixel/Vehicle-Number-Plate-Detection-and-Recognition
+" title="Vehicle Number Plate Detection and Recognition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Vehicle-Number-Plate-Detection-and-Recognition&theme=react&border_color=61dafb&border_radius=10"></a>
 
+  <a align="right" href="https://github.com/Dartpixel/textUtils" title="textUtils"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=textUtils&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+</div>
 <div>
   <h4 align="center">
   <a href="https://github.com/Dartpixel?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 </div>
 
- <br><br>
-
- <h2 align="center">🥰 Support</h2>
+ <br>
+ <br>
  <a href="https://www.buymeacoffee.com/Dartpixel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"    alt="Dartpixel" /></a>
