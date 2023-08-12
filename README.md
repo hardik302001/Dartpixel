@@ -116,7 +116,7 @@ I'm a Developer, Competitive Programmer and Algorithms enthusiast!
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Dartpixel/Face-Recognition" title="Face Detection and Recognition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Face-Recognition&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="right" href="https://github.com/Dartpixel/Color-Detection-using-Python" title="Color Detection using Python"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Color-Detection-using-Python&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Dartpixel/URL-Shortener" title="URL Shortener"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=URL-shortener&theme=react&border_color=61dafb&border_radius=10"></a>
 
   <a align="left" href="https://github.com/Dartpixel/Vehicle-Number-Plate-Detection-and-Recognition
 " title="Vehicle Number Plate Detection and Recognition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Vehicle-Number-Plate-Detection-and-Recognition&theme=react&border_color=61dafb&border_radius=10"></a>
