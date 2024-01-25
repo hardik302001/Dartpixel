@@ -16,7 +16,7 @@
 <h3>
 I'm a Developer, Competitive Programmer and Algorithms enthusiast!
 </h3>
-  <img align = "right" src = "https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" width = "500" height = "350">
+  <img align = "right" src = "https://github.com/vivekweb2013/vivekweb2013/raw/main/developer.gif" width="500" height="350">
 <p align="left">
   🔬 I'm a Sophomore, pursuing B-Tech in CSE from Graphic Era Deemed to be University. 
   <br>
@@ -114,14 +114,14 @@ I'm a Developer, Competitive Programmer and Algorithms enthusiast!
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Dartpixel/Face-Recognition" title="Face Detection and Recognition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Face-Recognition&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Dartpixel/Vogue-Store" title="Vogue Store - Fully Functioning ready to use Ecommerce Webapp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Vogue-Store&theme=react&border_color=61dafb&border_radius=10"></a>
 
   <a align="right" href="https://github.com/Dartpixel/URL-Shortener" title="URL Shortener"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=URL-shortener&theme=react&border_color=61dafb&border_radius=10"></a>
 
   <a align="left" href="https://github.com/Dartpixel/Vehicle-Number-Plate-Detection-and-Recognition
 " title="Vehicle Number Plate Detection and Recognition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Vehicle-Number-Plate-Detection-and-Recognition&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="right" href="https://github.com/Dartpixel/textUtils" title="textUtils"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=textUtils&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Dartpixel/Face-Recognition" title="Face Detection and Recognition"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Dartpixel&repo=Face-Recognition&theme=react&border_color=61dafb&border_radius=10"></a>
   
 </div>
 <div>
